@@ -1,4 +1,4 @@
-# coding-excercise
+# coding-exercises
 Hi ,
 
 1.This coding challenge has been implemented using Java 17.
